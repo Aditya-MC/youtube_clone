@@ -1,6 +1,8 @@
 **🎥 YouTube Clone – MERN Stack**
 
-Git repo link : https://github.com/Aditya-MC/youtube_clone01/
+Git repo link : https://github.com/Aditya-MC/youtube_clone.git
+
+
 **📌 Project Overview**
 
 This project is a YouTube Clone built using the MERN stack (MongoDB, Express.js, React, Node.js).
